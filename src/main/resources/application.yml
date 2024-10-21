@@ -19,7 +19,9 @@ spring:
           uri: https://github.com/bereketdeb/config-server-repo.git
           default-label: main
           username: bereketdeb
-          password: '{cipher}b2019336b24b5e76c45708c68a73efab12fc84256f0463c0dcdbcae67a45ff7e1856e3173f186c0503182aa27e01682fc8d7c82fde6bc2ed80691ad5980cc858'
+          #password:
+          #password: '{cipher}b2019336b24b5e76c45708c68a73efab12fc84256f0463c0dcdbcae67a45ff7e1856e3173f186c0503182aa27e01682fc8d7c82fde6bc2ed80691ad5980cc858'
+          #password: ATBB2S6AVKUfQ2AMkqrcVUwBsU3BF7A473F4
           clone-on-start: true
     #        bootstrap: true
     #      enabled: true
