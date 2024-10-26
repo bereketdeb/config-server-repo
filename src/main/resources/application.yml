@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8877
 
 
 
@@ -10,7 +10,7 @@ logging:
 
 spring:
   application:
-    name: configserver
+    name: configserver1
   cloud:
     config:
       server:
